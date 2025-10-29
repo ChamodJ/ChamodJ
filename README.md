@@ -5,7 +5,6 @@ I'm **Chamod Perera**, a passionate **4th-year BSc (Hons) in Information Technol
 💼 I have **10+ months of industry experience** in software development, where I worked on both **web** and **mobile applications**.  
 💻 I enjoy building creative, user-friendly, and scalable solutions using modern technologies.  
 🌱 Currently learning more about **Cloud Computing** and **DevOps**.  
-⚡ Fun fact: I love experimenting with UI design and optimizing user experiences!
 
 ---
 
